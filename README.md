@@ -13,7 +13,7 @@
 
 ###### Aqui há apenas uma introdução de como instalar o pygame:
 Provavelmente, para começar a estudar uma biblioteca, já se possui os conhecimentos suficientes para instalá-la, mas para não deixar vazio...
-Creio que a opção mais simples e menos sucetível a erros é, pela _IDLE_ do python, rodar o comando install pygame.
+Creio que a opção mais simples e menos sucetível a erros é, pela _IDLE_ do python, rodar o comando `install pygame.`
 ***
 
 ### Tutorial 02
@@ -38,7 +38,7 @@ Resultado esperado... O seu primeiro programa com pygame :)
 É um incrível display que fecha instantaneamente... Não é muito, mas é o primeiro passo
 
 **Notas:**
- *Os valores 800 e 600 de `pygame.display.set_mode((800, 600))` se referem ao tamanho do display - escolha o que achar melhor.(Variável que recebe o display também)
- *Lembre-se que os comandos `pygame.display.update()` e `pygame.display.flip()` possuem a mesma função, então escolha o que julgar melhor para o seu jogo.
+ * Os valores 800 e 600 de `pygame.display.set_mode((800, 600))` se referem ao tamanho do display - escolha o que achar melhor.(Variável que recebe o display também)
+ * Lembre-se que os comandos `pygame.display.update()` e `pygame.display.flip()` possuem a mesma função, então escolha o que julgar melhor para o seu jogo.
  Caso queira um padrão, geralmente se utiliza o primeiro.
 ***
