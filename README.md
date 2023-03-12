@@ -37,6 +37,8 @@ quit() # Encerra o Python
 Resultado esperado... O seu primeiro programa com pygame :)
 É um incrível display que fecha instantaneamente... Não é muito, mas é o primeiro passo
 
-Nota:* Lembre-se que os comandos `pygame.display.update()` e `pygame.display.flip()` possuem a mesma função, então escolha o que julgar melhor para o seu jogo.
+**Notas:**
+ *Os valores 800 e 600 de `pygame.display.set_mode((800, 600))` se referem ao tamanho do display - escolha o que achar melhor.(Variável que recebe o display também)
+ *Lembre-se que os comandos `pygame.display.update()` e `pygame.display.flip()` possuem a mesma função, então escolha o que julgar melhor para o seu jogo.
  Caso queira um padrão, geralmente se utiliza o primeiro.
 ***
